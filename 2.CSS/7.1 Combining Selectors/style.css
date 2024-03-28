@@ -1,0 +1,20 @@
+/* Write your code here: */
+h1, h2{
+    color: blueviolet;
+}
+
+.box > .done{ /*The > only access the first level child */
+    color: firebrick;
+}
+
+.box .list{  /**/
+    color: blue;
+}
+
+li.done{ /*chaining method */
+    color: seagreen;
+}
+
+ul p.done{
+    font-size: 0.5rem;
+}

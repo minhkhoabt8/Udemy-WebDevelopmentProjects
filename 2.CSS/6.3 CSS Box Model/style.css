@@ -1,0 +1,25 @@
+#first-square{
+    background-color: cadetblue;
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    border: 10px solid black;
+}
+p{
+    margin: 0%;
+}
+#second-square{
+    background-color: gold;
+    height: 200px;
+    width: 200px;
+    border:  solid black;
+    border-width: 20px 10px;
+    margin-left: 260px;
+}
+#third-square{
+    background-color: indianred;
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    margin-left: 480px;
+}
