@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SortingAlgorithm_Demo/1.0.0": {
+        "dependencies": {
+          "SortingAlgorithms": "1.0.0"
+        },
+        "runtime": {
+          "SortingAlgorithm_Demo.dll": {}
+        }
+      },
+      "SortingAlgorithms/1.0.0": {
+        "runtime": {
+          "SortingAlgorithms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SortingAlgorithm_Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SortingAlgorithms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

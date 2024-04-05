@@ -1,0 +1,12 @@
+C:\Users\DELL\OneDrive\MyComputer\WebDevelopmentProjects\10.DataStructureAndAlgorithms\DataStructureAndAlgorithms\SortingAlgorithms\bin\Debug\net8.0\SortingAlgorithms.deps.json
+C:\Users\DELL\OneDrive\MyComputer\WebDevelopmentProjects\10.DataStructureAndAlgorithms\DataStructureAndAlgorithms\SortingAlgorithms\bin\Debug\net8.0\SortingAlgorithms.dll
+C:\Users\DELL\OneDrive\MyComputer\WebDevelopmentProjects\10.DataStructureAndAlgorithms\DataStructureAndAlgorithms\SortingAlgorithms\bin\Debug\net8.0\SortingAlgorithms.pdb
+C:\Users\DELL\OneDrive\MyComputer\WebDevelopmentProjects\10.DataStructureAndAlgorithms\DataStructureAndAlgorithms\SortingAlgorithms\obj\Debug\net8.0\SortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\MyComputer\WebDevelopmentProjects\10.DataStructureAndAlgorithms\DataStructureAndAlgorithms\SortingAlgorithms\obj\Debug\net8.0\SortingAlgorithms.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\MyComputer\WebDevelopmentProjects\10.DataStructureAndAlgorithms\DataStructureAndAlgorithms\SortingAlgorithms\obj\Debug\net8.0\SortingAlgorithms.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\MyComputer\WebDevelopmentProjects\10.DataStructureAndAlgorithms\DataStructureAndAlgorithms\SortingAlgorithms\obj\Debug\net8.0\SortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\MyComputer\WebDevelopmentProjects\10.DataStructureAndAlgorithms\DataStructureAndAlgorithms\SortingAlgorithms\obj\Debug\net8.0\SortingAlgorithms.sourcelink.json
+C:\Users\DELL\OneDrive\MyComputer\WebDevelopmentProjects\10.DataStructureAndAlgorithms\DataStructureAndAlgorithms\SortingAlgorithms\obj\Debug\net8.0\SortingAlgorithms.dll
+C:\Users\DELL\OneDrive\MyComputer\WebDevelopmentProjects\10.DataStructureAndAlgorithms\DataStructureAndAlgorithms\SortingAlgorithms\obj\Debug\net8.0\refint\SortingAlgorithms.dll
+C:\Users\DELL\OneDrive\MyComputer\WebDevelopmentProjects\10.DataStructureAndAlgorithms\DataStructureAndAlgorithms\SortingAlgorithms\obj\Debug\net8.0\SortingAlgorithms.pdb
+C:\Users\DELL\OneDrive\MyComputer\WebDevelopmentProjects\10.DataStructureAndAlgorithms\DataStructureAndAlgorithms\SortingAlgorithms\obj\Debug\net8.0\ref\SortingAlgorithms.dll

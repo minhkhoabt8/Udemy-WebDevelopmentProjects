@@ -15,24 +15,33 @@
     }
 
     .red {
-      display: block;
-      width: 200px;
-      height: 200px;
+       display: inline-block; /* change to block for horizontal display */
+      width: 400px;
+      height: 400px;
       background-color: red;
     }
 
     .green {
-      display: inline;
-      width: 200px;
-      height: 200px;
+      display: inline-block; /* change to block for horizontal display */
+      width: 400px;
+      height: 400px;
       background-color: green;
     }
 
     .blue {
-      display: inline-block;
-      width: 200px;
-      height: 200px;
+      display: inline-block; /* change to block for horizontal display */
+      width: 400px;
+      height: 400px;
       background-color: blue;
+    }
+    .yellow {
+      display: inline-block; /* change to block for horizontal display */
+      width: 400px;
+      height: 400px;
+      background-color: yellowgreen;
+    }
+    .wrap{
+      margin: 50px;
     }
   </style>
 </head>
@@ -40,9 +49,12 @@
 
 <body>
   <h1>CSS Display Property</h1>
-  <p class="red">Red Paragraph </p>
-  <p class="green">Green Paragraph</p>
-  <p class="blue">Blue Paragraph</p>
+  <div class="wrap">
+    <p class="red">Red Paragraph </p>
+    <p class="green">Green Paragraph</p>
+    <p class="blue">Blue Paragraph</p>
+    <p class="yellow">Blue Paragraph</p>
+  </div>
 </body>
 
 </html>
